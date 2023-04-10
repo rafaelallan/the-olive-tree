@@ -1,35 +1,36 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1 align="center">The Olive Tree</h1>
 
-Welcome,
+This is a website to help customers to obtain information about a local cafe, The Olive Tree. The customers can contact through the website as well as access the social media.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## User Experience (UX)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
+### User Stories
 
-## Codeanywhere Reminders
+  - #### First Time Visitor Goals
+    1. As a First Time Visitor, I want to know more about what the cafe can offer.
+    2. As a First Time Visitor, I want to have a clear understanding on where everything is located so that I can quickly access.
+    3. As a First Time Visitor, I want to have to able to access the menu so that I can decide what I want before visiting the place.
+    4. As a First Time Vistior, I want to verify the testimonials to know what people thinks about the place.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+  - #### Returning Visitor Goals
+    1. As a Returning Visitor, I want to verify check the menu to remember what I ate last time.
+    2. As a Returning Visitor, I want to check the opening times.
+    3. As a Returning Visitor, I want to be able to find the contact information.
 
-`python3 -m http.server`
+  - #### Frequent User Goals
+    1. As a Frequent User, I want to verify if there is a new dish added to the menu or if something was updated.
+    2. As a Frequent User, I want to use the map on the contact page to add to the route of my GPS.
+   
+### User Stories
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+  - ### Color Scheme
+    - The website has pastel colors such as #787254 and #F8F0DC.
+  
+  - ### Typography
+    - The website uses Montserrat fonts as this is very well used in different websites on the internet and users will be already familiar.
+    
+  - ### Imagery
+    - The home page contains a page that contains a cup of coffee. That can get the customer's attention and wish to drink coffee.
+    - About page will contain an image of the front of the cafe.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
