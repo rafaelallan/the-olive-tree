@@ -33,4 +33,15 @@ This is a website to help customers to obtain information about a local cafe, Th
     - The home page contains a page that contains a cup of coffee. That can get the customer's attention and wish to drink coffee.
     - About page will contain an image of the front of the cafe.
 
+    - #### Home
+    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/home.png">
+
+    - #### About Us
+    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/aboutus.png">
+
+    - #### Menu
+    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/menu.png">
+
+    - #### Contact
+    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/contact.png">
 
