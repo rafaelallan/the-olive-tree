@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu:wght@700&display=swap');
+
+body {
+    font-family: Montserrat, sans-serif;
+    margin: 0;
+}
+
+h1, h2 {
+    font-family: Ubuntu, sans-serif;
+}
+
+header {
+    background-color: #787254;
+    color: #fff;
+    position: fixed;
+    padding: 15px;
+    width: 100%;
+}
+
+#logo {
+    float: left;
+}
+
+ul {
+    background-color: blue;
+    margin: 0;
+}
+
+li {
+    display: inline;
+    float: right;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+
+a:hover {
+    background-color: #fff;
+    color: #000;
+}
