@@ -19,6 +19,7 @@ header {
     width: 100%;
     top: 0;
     clear: both;
+    z-index: 1;
 }
 
 #logo {
@@ -54,6 +55,18 @@ a:hover{
     margin-top: 49px;
     height: 750px;
     width: 1;
-    background: url("/assets/images/coffeebeans.jpg") no-repeat center;
+    background: url("/assets/images/coffeebeans.webp") no-repeat center;
     background-size: cover;
+}
+
+#bigheading {
+    font-family: Ubuntu, sans-serif;
+    font-size: 6em;
+    color: #fff;
+    width: 40%;
+    position: relative;
+    left: 15%;
+    top: 15%;
+    text-shadow: 2px 2px 30px #787254;
+    transition: 0.5;
 }
