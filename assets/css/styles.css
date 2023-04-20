@@ -121,10 +121,10 @@ footer {
     padding: 15px;
     bottom: 0;
     position: fixed;
+    font-size: 1em;
 }
 
 span i {
-    font-size: 1.5em;
     margin: 5px 10px 0 10px;
 }
 
@@ -166,15 +166,21 @@ span i {
 
 /* Menu Page */
 
+#menusection {
+    padding-bottom: 100px; 
+}
+
 #menufood {
-    width: 80%;
+    width: 70%;
     margin-bottom: 20px;
+    margin: auto;
 }
 
 .foodtitle {
     float: left;
     text-transform: uppercase;
     font-weight: 700;
+    margin-top: 20px;
 }
 .menuprice {
     float: right;
@@ -182,4 +188,9 @@ span i {
 }
 .menufooddescription {
     clear: left;
+}
+
+hr {
+    margin-top: 20px;
+    width: 80%;
 }
