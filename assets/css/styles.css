@@ -93,10 +93,28 @@ a:hover{
 
 .testimonialitem p{
     font-style: italic;
+    padding: 0px;
+    text-align: justify;
 }
 
 .author {
-    font-weight: bold;
+    font-weight: 400;
     text-align: right;
     padding: 0;
+    padding-bottom: 20px;
+}
+
+/* Footer */
+
+footer {
+    background-color: #787254;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+}
+
+span i {
+    font-size: 1.5em;
+    margin: 5px 10px 0 10px;
 }
