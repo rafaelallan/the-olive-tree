@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Ubuntu:wght@700&display=swap');
 
 body {
     font-family: Montserrat, sans-serif;
@@ -130,7 +130,7 @@ span i {
 
 /* About Us Page */
 
-#aboutsection {
+#aboutsection, #menusection {
     margin-top: 49px;
     height: 100%;
     background-color: #F8F0DC;
@@ -142,13 +142,11 @@ span i {
 #flex-aboutus {
     display: flex;
     flex-wrap: wrap;
-    /* background-color: blue; */
     justify-content: space-evenly;
 }
 
 #flex-aboutus > div {
     width: 500px;
-    /* background-color: grey; */
     padding: 15px;
     margin-bottom: 100px;
 }
@@ -164,4 +162,24 @@ span i {
 #imginsidecafe {
     width: 500px;
     border: 5px solid white;
+}
+
+/* Menu Page */
+
+#menufood {
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.foodtitle {
+    float: left;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.menuprice {
+    float: right;
+    font-weight: 700;
+}
+.menufooddescription {
+    clear: left;
 }
