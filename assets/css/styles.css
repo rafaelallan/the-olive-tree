@@ -48,6 +48,12 @@ a {
     margin-right: 15px;
 }
 
+.active{
+    background-color: #fff;
+    color: #787254;
+    border-radius: 15px;
+}
+
 a:hover{
     background-color: #fff;
     color: #787254;
