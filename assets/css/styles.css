@@ -4,7 +4,8 @@ body {
     font-family: Montserrat, sans-serif;
     margin: 0;
     color: #5e5941;
-}
+    height: 100vh; /* Ref: https://stackoverflow.com/questions/6654958/make-body-have-100-of-the-browser-height*/
+} 
 
 h1, h2 {
     font-family: Ubuntu, sans-serif;
@@ -118,9 +119,21 @@ footer {
     width: 100%;
     text-align: center;
     padding: 15px;
+    bottom: 0;
+    position: fixed;
 }
 
 span i {
     font-size: 1.5em;
     margin: 5px 10px 0 10px;
+}
+
+/* About Us Page */
+
+#aboutsection{
+    margin-top: 49px;
+    height: 100%;
+    background-color: #F8F0DC;
+    padding: 3% 15%;
+    line-height: 1.8;
 }
