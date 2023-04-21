@@ -202,3 +202,11 @@ hr {
     width: 250px;
     height: 20px;
 }
+
+#submit {
+    background-color: #5e5941;
+    color: white;
+    width: 70px;
+    height: 30px;
+    font-weight: 700;
+}
