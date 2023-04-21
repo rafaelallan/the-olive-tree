@@ -4,6 +4,7 @@ body {
     font-family: Montserrat, sans-serif;
     margin: 0;
     color: #5e5941;
+    background-color: #F8F0DC;
     /* height: 100vh; Ref: https://stackoverflow.com/questions/6654958/make-body-have-100-of-the-browser-height */
 } 
 
@@ -130,7 +131,7 @@ span i {
 
 /* About Us Page */
 
-#aboutsection, #menusection {
+#aboutsection, #menusection, #contactsection {
     margin-top: 49px;
     height: 100%;
     background-color: #F8F0DC;
@@ -139,7 +140,7 @@ span i {
     text-align: justify;
 }
 
-#flex-aboutus {
+#flex-aboutus, #flex-contact {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -193,4 +194,11 @@ span i {
 hr {
     margin-top: 20px;
     width: 80%;
+}
+
+/* Contact Page */
+
+#name, #email, #inquiry {
+    width: 250px;
+    height: 20px;
 }
