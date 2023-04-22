@@ -245,4 +245,8 @@ textarea {
         position: relative;
     }
 
+    #testimonials, #aboutsection, #menusection, #contactsection {
+        padding: 3% 7%;
+    }
+
 }
