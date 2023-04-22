@@ -121,9 +121,11 @@ footer {
     text-align: center;
     padding: 15px;
     bottom: 0;
-    position: fixed;
+    /* position: absolute; */
     font-size: 1em;
 }
+
+
 
 span i {
     margin: 5px 10px 0 10px;
@@ -133,11 +135,16 @@ span i {
 
 #aboutsection, #menusection, #contactsection {
     margin-top: 49px;
-    height: 100%;
     background-color: #F8F0DC;
     padding: 3% 15%;
     line-height: 1.8;
     text-align: justify;
+    min-height: 100vh;
+    position: relative;
+}
+
+#contactsection {
+    min-height: 80vh;
 }
 
 #flex-aboutus, #flex-contact {
@@ -215,7 +222,6 @@ hr {
 #formside {
     /* background-color: lightsteelblue; */
     padding: 50px;
-    border-right: 1px solid #5e5941;
 }
 
 input, select, textarea {
