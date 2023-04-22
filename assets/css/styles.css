@@ -236,7 +236,6 @@ textarea {
         margin: 0 auto;
         width: 90%;
         padding-top: 40px;
-        /* background-color: red; */
     }
 
     #bigheading {
@@ -246,19 +245,12 @@ textarea {
     }
 
     #testimonials, #aboutsection, #menusection, #contactsection {
-        padding: 3% 7%;
-        margin-top: 15%;
+        padding: 5% 7%;
+        position: static;
     }
 
+    #imginsidecafe {
+        width: 100%;
+        height: auto;
+    }
 }
-
-
-/* #aboutsection, #menusection, #contactsection {
-    margin-top: 49px;
-    background-color: #F8F0DC;
-    padding: 3% 15%;
-    line-height: 1.8;
-    text-align: justify;
-    min-height: 100vh;
-    position: relative;
-} */
