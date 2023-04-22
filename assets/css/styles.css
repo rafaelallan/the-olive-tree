@@ -217,7 +217,10 @@ hr {
 } 
 
 #formside {
-    /* background-color: lightsteelblue; */
+    padding: 50px;
+}
+
+#openingtimes {
     padding: 50px;
 }
 
@@ -252,5 +255,9 @@ textarea {
     #imginsidecafe {
         width: 100%;
         height: auto;
+    }
+
+    #openingtimes {
+        padding: 0 5%;
     }
 }
