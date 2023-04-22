@@ -76,7 +76,7 @@ a:hover{
 
 #bigheading {
     font-family: Ubuntu, sans-serif;
-    font-size: 6em;
+    font-size: 6rem;
     color: #fff;
     width: 40%;
     position: relative;
@@ -234,8 +234,15 @@ textarea {
     nav {
         float: none;
         margin: 0 auto;
-        width: 60%;
+        width: 90%;
         padding-top: 40px;
         /* background-color: red; */
     }
+
+    #bigheading {
+        font-size: 4.5rem;
+        width: 50%;
+        position: relative;
+    }
+
 }
