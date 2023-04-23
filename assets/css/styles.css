@@ -164,6 +164,7 @@ span i {
     margin-top: 0;
 }
 
+
 #imginsidecafe {
     width: 500px;
     border: 5px solid white;
@@ -232,6 +233,12 @@ textarea {
     height: 7rem;
 }
 
+iframe {
+    width: 400px;
+    height: 300px;
+    border: 0;
+}
+
 @media screen and (max-width: 700px) {
     
     nav {
@@ -255,9 +262,14 @@ textarea {
     #imginsidecafe {
         width: 100%;
         height: auto;
+        margin: 0 auto;
     }
 
     #openingtimes {
-        padding: 0 5%;
+        padding: 0;
+    }
+
+    iframe {
+        width: auto;
     }
 }
