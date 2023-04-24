@@ -128,12 +128,11 @@ li > a:hover{
 footer {
     background-color: #787254;
     color: #fff;
-    /* width: 100%; */
-    display: flex;
+    /* width: 100%;  Ref (Remove horizontal bar): https://ittrainingcontent.iu.edu/training/htmsp/files/pc/troubleshooting-scroll-bar-issues.html#:~:text=Web%20browsers%20do%20not%20take,display%20a%20horizontal%20scroll%20bar. */
+    /* display: flex; */
     text-align: center;
     padding: 15px;
     bottom: 0;
-    /* position: absolute; */
     font-size: 1em;
 }
 
@@ -161,7 +160,7 @@ span i {
 }
 
 #contactsection {
-    min-height: 72.5vh;
+    min-height: 78.5vh;
 }
 
 #flex-aboutus, #flex-contact {
