@@ -128,12 +128,17 @@ li > a:hover{
 footer {
     background-color: #787254;
     color: #fff;
-    width: 100%;
+    /* width: 100%; */
+    display: flex;
     text-align: center;
     padding: 15px;
     bottom: 0;
     /* position: absolute; */
     font-size: 1em;
+}
+
+#footercontent {
+    margin: 0 auto;
 }
 
 
@@ -156,7 +161,7 @@ span i {
 }
 
 #contactsection {
-    min-height: 80vh;
+    min-height: 72.5vh;
 }
 
 #flex-aboutus, #flex-contact {
@@ -272,7 +277,7 @@ iframe {
     }
 
     #testimonials, #aboutsection, #menusection, #contactsection {
-        /* padding: 5% 7%; */
+        padding: 7% 7%;
         position: static;
     }
 
