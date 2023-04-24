@@ -76,7 +76,6 @@ li > a:hover{
 #homeimage {
     margin-top: 49px;
     height: 750px;
-    width: 1;
     background: url("../images/coffeebeans.webp") no-repeat center;
     background-size: cover;
 }
@@ -90,7 +89,6 @@ li > a:hover{
     left: 20%;
     top: 15%;
     text-shadow: 2px 2px 30px #787254;
-    transition: 0.5;
 }
 
 /* Testimonials section */
