@@ -232,7 +232,7 @@ hr {
 } 
 
 #formside {
-    padding: 50px;
+    padding: 50px 0;
 }
 
 #openingtimes {
@@ -245,6 +245,10 @@ input, select, textarea {
 
 textarea {
     height: 7rem;
+}
+
+#formsent {
+    text-align: center;
 }
 
 iframe {
