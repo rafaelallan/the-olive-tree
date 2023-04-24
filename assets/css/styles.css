@@ -58,7 +58,7 @@ a {
     border-radius: 15px;
 }
 
-a:hover{
+li > a:hover{
     background-color: #fff;
     color: #787254;
     border-radius: 15px;
