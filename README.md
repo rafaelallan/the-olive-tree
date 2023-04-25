@@ -59,10 +59,16 @@ The initial page will show a big heading with the title and a background of coff
 
 This page provide more information about the cafe with an image on the side so that the customer can read and see at the same time how the cafe looks like.
 
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/aboutuspage.png">
+
 ### Menu
 
 This page shows two menus. One menu called "Brunch All Day" and another one "Lunch". It contains the name of the item in the menu, what composes this item and the price for this particular dish. The information shows all the information perfectly aligned and easily readable when on mobile.
 
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/menupage.png">
+
 ### Contact
 
 There are two sections on this page. On the left-hand side, we can find the contact form that can be submitted. Once the form is submitted, it redirects to a page informing the user that the form was submitted. On the right-hand side, there is a sub-section which contains a sub title called "Opening hours" and will provide the times when the cafe is opened as well as the location of the cafe.
+
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/contactpage.png">
