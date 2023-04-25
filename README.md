@@ -5,14 +5,27 @@ The website [The Olive Tree](https://rafaelallan.github.io/the-olive-tree/) to h
 ## Content
 
 * [User Experience (UX)](<#user-experience-ux>)
+    * [User Stories](<#user-stories>)
+    * [Design](<#design>)
 * [Features](<#features>)
+    * [Header](<#header>)
+    * [Home Page](<#home-page>)
+    * [About Us](<#about-us>)
+    * [Menu](<#menu>)
+    * [Contact](<#contact>)
+    * [Future Feature](<#future-feature>)
 * [Testings](<#testings>)
+    * [Validator Testings](<#validator-testings>)
+    * [Rendering](<#rendering>)
+    * [Responsiveness](<#responsiveness>)
+    * [Functionality](<#functionality>)
+    * [Bugs](<#bugs>)
 * [Technology Used](<#technology-used>)
 * [Deployment](<#deployment>)
 * [Credits](<#credits>)
+    * [Content](<#content>)
+    * [Media](<#media>)
 * [Acknowledgements](#cknowledgements)
-
-
 
 
 ## User Experience (UX)
@@ -34,7 +47,7 @@ The website [The Olive Tree](https://rafaelallan.github.io/the-olive-tree/) to h
     1. As a Frequent User, I want to verify if there is a new dish added to the menu or if something was updated.
     2. As a Frequent User, I want to use the map on the contact page to add to the route of my GPS.
    
-### User Stories
+### Design
 
   - ### Color Scheme
     - The website has pastel colors such as #787254 and #F8F0DC.
