@@ -235,7 +235,7 @@ hr {
 } 
 
 #formside {
-    padding: 50px 0;
+    padding: 25px 0;
 }
 
 #openingtimes {
@@ -256,7 +256,7 @@ textarea {
 
 iframe {
     width: 400px;
-    height: 300px;
+    height: 210px;
     border: 0;
 }
 
