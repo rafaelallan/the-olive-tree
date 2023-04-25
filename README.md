@@ -81,7 +81,7 @@ There are two sections on this page. On the left-hand side, we can find the cont
 
 ## Testings
 
-More than one validator mechanism were used to verify the quality of the website. Each validation are shown below""
+More than one validator mechanism were used to verify the quality of the website. Each validation are shown below:
 
 ### Markup Validation Service
 
