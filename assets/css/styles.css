@@ -264,7 +264,7 @@ iframe {
     nav {
         float: none;
         margin: 40px auto 0 auto;
-        width: 90%;
+        width: 100%;
         display: block;
         background-color: red;
     }
