@@ -103,4 +103,13 @@ More than one validator mechanism were used to verify the quality of the website
 
 * All the pages opened correctly in all Apple main mobile devices.
 
-* @media screen on CSS was compatible to all versions used on the development of this project.
+* Images on home page and about us loaded fine in all the devices.
+
+* All the links opened on the same tab. Social icons at the footer opened on a new tab.
+
+### Responsiveness
+
+* @media screen was added to the CSS to adequate the content to the mobile devices, from mobile phone to laptops and external monitors.
+
+* About Us and Contact page were added flexbox so that the content could be one under the other when the page is narrowed.
+
