@@ -5,7 +5,6 @@ body {
     margin: 0;
     color: #5e5941;
     background-color: #F8F0DC;
-    /* height: 100vh; Ref: https://stackoverflow.com/questions/6654958/make-body-have-100-of-the-browser-height */
 } 
 
 h1, h2 {
@@ -127,8 +126,6 @@ li > a:hover{
 footer {
     background-color: #787254;
     color: #fff;
-    /* width: 100%;  Ref (Remove horizontal bar): https://ittrainingcontent.iu.edu/training/htmsp/files/pc/troubleshooting-scroll-bar-issues.html#:~:text=Web%20browsers%20do%20not%20take,display%20a%20horizontal%20scroll%20bar. */
-    /* display: flex; */
     text-align: center;
     padding: 15px;
     bottom: 0;
@@ -260,6 +257,8 @@ iframe {
     border: 0;
 }
 
+/* Mobile devices that have standard resolution */
+
 @media screen and (max-width: 700px) {
     nav {
         float: none;
@@ -303,6 +302,8 @@ iframe {
         padding: 5px 15px 0 15px;
     }
 }
+
+/* Inclusion of device with very small resolution */
 
 @media screen and (max-width: 400px) {
     header {
