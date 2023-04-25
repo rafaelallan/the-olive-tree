@@ -1,6 +1,6 @@
 <h1 align="center">The Olive Tree</h1>
 
-This is a website to help customers to obtain information about a local cafe, The Olive Tree. The customers can contact through the website as well as access the social media.
+The website [The Olive Tree](https://github.com/rafaelallan/the-olive-tree) to help customers to obtain information about a local cafe, The Olive Tree. The customers can contact through the website as well as access the social media.
 
 ## User Experience (UX)
 
@@ -121,13 +121,19 @@ More than one validator mechanism were used to verify the quality of the website
 
 * HTML5 for the website structure.
 * CSS3 for all the customization of the website.
-* [**Balsamiq**](https://balsamiq.com/) created the wireframe for all the pages.
-* [**CodeAnywhere**](https://codeanywhere.com/) CodeAnywhere IDE
-* Github as a repository for the entire project.
-* [**Google Fonts**](https://fonts.google.com/) imported on CSS
-* [**Font Awesome**](https://fontawesome.com/) icons were added to the footer and Menu page.
+* [Balsamiq](https://balsamiq.com/) created the wireframe for all the pages.
+* [CodeAnywhere](https://codeanywhere.com/) CodeAnywhere IDE
+* [Github](https://github.com/) as a repository for the entire project.
+* [Google Fonts](https://fonts.google.com/) imported on CSS
+* [Font Awesome](https://fontawesome.com/) icons were added to the footer and Menu page.
 * Images used on the website were obtained from [**Pexels**](https://www.pexels.com/).
-* [**UI Dev**](https://ui.dev/) Initial screenshot that shows the site rendered on all the devices. 
+* [UI Dev](https://ui.dev/) Initial screenshot that shows the site rendered on all the devices. 
+* [Pesticide]("https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi") was used to assist on the content alignment.
 
-[****]()
+## Deployment
 
+Github was used as a repository for this project. A new repository was created before the project initiate which allowed to host the webiste.
+
+To deploy the website, access [The Olive Three][https://github.com/rafaelallan/the-olive-tree], Settings, Code and automation and Pages. On this page, there is an option called *Branch* where option is changed to main.
+
+After the steps above, GitHub will provide after a couple of seconds a link on the same page. This link can be used to access the live version of the project.
