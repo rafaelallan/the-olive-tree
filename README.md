@@ -99,17 +99,35 @@ More than one validator mechanism were used to verify the quality of the website
 
 ### Rendering
 
-* The website rendered correctly on Google Chrome, Mozilla Firefox and Safari.
+* The website render correctly on Google Chrome, Mozilla Firefox and Safari.
 
-* All the pages opened correctly in all Apple main mobile devices.
+* All the pages open correctly in all Apple main mobile devices.
 
-* Images on home page and about us loaded fine in all the devices.
-
-* All the links opened on the same tab. Social icons at the footer opened on a new tab.
+* Images on home page and about us load fine in all the devices.
 
 ### Responsiveness
 
-* @media screen was added to the CSS to adequate the content to the mobile devices, from mobile phone to laptops and external monitors.
+* @media screen is add to the CSS to adequate the content to the mobile devices, from mobile phone to laptops and external monitors.
 
-* About Us and Contact page were added flexbox so that the content could be one under the other when the page is narrowed.
+* About Us and Contact page contain flexbox so that the content can be one under the other when the page is narrowed.
+
+### Functionality
+
+* All the links open on the same tab. Social icons at the footer open on a new tab.
+
+* The form fields are required and validate correctly before the form is submitted.
+
+## Technology Used
+
+* HTML5 for the website structure.
+* CSS3 for all the customization of the website.
+* [**Balsamiq**](https://balsamiq.com/) created the wireframe for all the pages.
+* [**CodeAnywhere**](https://codeanywhere.com/) CodeAnywhere IDE
+* Github as a repository for the entire project.
+* [**Google Fonts**](https://fonts.google.com/) imported on CSS
+* [**Font Awesome**](https://fontawesome.com/) icons were added to the footer and Menu page.
+* Images used on the website were obtained from [**Pexels**](https://www.pexels.com/).
+* [**UI Dev**](https://ui.dev/) Initial screenshot that shows the site rendered on all the devices. 
+
+[****]()
 
