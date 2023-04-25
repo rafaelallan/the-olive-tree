@@ -2,6 +2,8 @@
 
 The website [The Olive Tree](https://rafaelallan.github.io/the-olive-tree/) to help customers to obtain information about a local cafe, The Olive Tree. The customers can contact through the website as well as access the social media.
 
+    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/readme/heroimage.png">
+
 ## Content
 
 * [User Experience (UX)](<#user-experience-ux>)
