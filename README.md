@@ -53,7 +53,7 @@ The website was created with multiple pages which consists of Home page, About U
 
 The header has the logo on the left and the menu on the right. The menu highlight the current page and it also highlights when we hover the mouse over the links
 
-<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/homepage.png">
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/headermenu.gif">
 
 ### Home page
 
