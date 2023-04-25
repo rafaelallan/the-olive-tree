@@ -47,7 +47,13 @@ This is a website to help customers to obtain information about a local cafe, Th
 
 ## Features
 
-The website was created with multiple pages which consists of Home page, About Us, Menu and Contact. All the pages contain a similar header and footer. The header will have the menu highlighted to the page the user is currently on.
+The website was created with multiple pages which consists of Home page, About Us, Menu and Contact. All the pages contain a similar header and footer.
+
+### Header
+
+The header has the logo on the left and the menu on the right. The menu highlight the current page and it also highlights when we hover the mouse over the links
+
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/homepage.png">
 
 ### Home page
 
