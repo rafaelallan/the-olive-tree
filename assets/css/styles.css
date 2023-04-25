@@ -36,6 +36,7 @@ header > a , nav a{
 
 #logo {
     float: left;
+    font-size: 1.3em;
 }
 
 /* Menu */
@@ -158,7 +159,7 @@ span i {
 }
 
 #contactsection {
-    min-height: 78.5vh;
+    min-height: 75vh;
 }
 
 #flex-aboutus, #flex-contact {
@@ -262,9 +263,14 @@ iframe {
 @media screen and (max-width: 700px) {
     nav {
         float: none;
-        margin: 0 auto;
+        margin: 30px auto 0 auto;
         width: 90%;
-        padding-top: 40px;
+        display: block;
+        background-color: red;
+    }
+
+    li {
+        margin: 0 auto;
     }
 
     #bigheading {
