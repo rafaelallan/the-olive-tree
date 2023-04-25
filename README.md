@@ -154,4 +154,9 @@ More than one validator mechanism were used to verify the quality of the website
 
 * [Font Awesome](https://fontawesome.com/) icons were added to the footer and Menu page.
 * [TinyPNG](https://tinypng.com/) resized the images to upload do CodeAnywhere and add to the project repository.
-* Images used on the website were obtained from [**Pexels**](https://www.pexels.com/).
+* Images used on the website were obtained from [Pexels](https://www.pexels.com/).
+
+## Acknowledgements
+
+The [Code Institute](https://codeinstitute.net/) has provided me all the content to have this project to happen. I appreciate all the help from my mentor `narender_mentor`, he shared several ideas for this project.
+I also want to thanks `Cesar.Garcia_5P` who we had a few video calls to discuss about the progress of the project.
