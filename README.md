@@ -83,4 +83,14 @@ There are two sections on this page. On the left-hand side, we can find the cont
 
 More than one validator mechanism were used to verify the quality of the website. Each validation are shown below""
 
-### 
+### Markup Validation Service
+
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/readme/W3Cmarkupvalidator.png">
+
+### CSS Validation Service
+
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/readme/W3Ccssvalidator.png">
+
+### Lighthouse
+
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/readme/lighthouse.png">
