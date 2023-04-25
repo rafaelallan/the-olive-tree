@@ -263,7 +263,7 @@ iframe {
 @media screen and (max-width: 700px) {
     nav {
         float: none;
-        margin: 30px auto 0 auto;
+        margin: 40px auto 0 auto;
         width: 90%;
         display: block;
         background-color: red;
@@ -292,5 +292,10 @@ iframe {
 
     #openingtimes {
         padding: 0;
+        width: 90%
+    }
+
+    iframe {
+        width: 100%;
     }
 }
