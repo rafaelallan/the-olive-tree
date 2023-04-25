@@ -303,3 +303,9 @@ iframe {
         padding: 5px 15px 0 15px;
     }
 }
+
+@media screen and (max-width: 400px) {
+    header {
+        padding: 5px;
+    }
+}
