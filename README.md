@@ -124,8 +124,7 @@ More than one validator mechanism were used to verify the quality of the website
 * [Balsamiq](https://balsamiq.com/) created the wireframe for all the pages.
 * [CodeAnywhere](https://codeanywhere.com/) CodeAnywhere IDE
 * [Github](https://github.com/) as a repository for the entire project.
-* [Google Fonts](https://fonts.google.com/) imported on CSS
-* [Font Awesome](https://fontawesome.com/) icons were added to the footer and Menu page.
+* [Google Fonts](https://fonts.google.com/) imported on CSS.
 * [Color Hunt](https://colorhunt.co/) used to choose the correct color palette for the project.
 * [Adobe Color](https://color.adobe.com/) confirmed the contrast of the colours were matching.
 * [UI Dev](https://ui.dev/) Initial screenshot that shows the site rendered on all the devices. 
@@ -144,8 +143,10 @@ More than one validator mechanism were used to verify the quality of the website
 ### Content
 
 * The text from the Testimonials and About Us page was generated using [Open AI](https://openai.com/).
-* Images used on the website were obtained from [**Pexels**](https://www.pexels.com/).
 * [W3C Schools](https://www.w3schools.com/) was used for great references along the project.
 
-# Media
+### Media
 
+* [Font Awesome](https://fontawesome.com/) icons were added to the footer and Menu page.
+* [TinyPNG](https://tinypng.com/) resized the images to upload do CodeAnywhere and add to the project repository.
+* Images used on the website were obtained from [**Pexels**](https://www.pexels.com/).
