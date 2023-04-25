@@ -83,14 +83,24 @@ There are two sections on this page. On the left-hand side, we can find the cont
 
 More than one validator mechanism were used to verify the quality of the website. Each validation are shown below:
 
-### Markup Validation Service
+### Validator Testings
+
+#### Markup Validation Service
 
 <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/readme/W3Cmarkupvalidator.png">
 
-### CSS Validation Service
+#### CSS Validation Service
 
 <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/readme/W3Ccssvalidator.png">
 
-### Lighthouse
+#### Lighthouse
 
 <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/readme/lighthouse.png">
+
+### Rendering
+
+* The website rendered correctly on Google Chrome, Mozilla Firefox and Safari.
+
+* All the pages opened correctly in all Apple main mobile devices.
+
+* @media screen on CSS was compatible to all versions used on the development of this project.
