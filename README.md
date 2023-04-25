@@ -34,16 +34,16 @@ This is a website to help customers to obtain information about a local cafe, Th
     - About page will contain an image of the front of the cafe.
 
     - #### Home
-    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/home.png">
+    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/wireframe/home.png">
 
     - #### About Us
-    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/aboutus.png">
+    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/wireframe/aboutus.png">
 
     - #### Menu
-    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/menu.png">
+    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/wireframe/menu.png">
 
     - #### Contact
-    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/contact.png">
+    <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/wireframe/contact.png">
 
 ## Features
 
@@ -53,28 +53,34 @@ The website was created with multiple pages which consists of Home page, About U
 
 The header has the logo on the left and the menu on the right. The menu highlight the current page and it also highlights when we hover the mouse over the links
 
-<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/headermenu.gif">
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/screenshots/headermenu.gif">
 
 ### Home page
 
 The initial page will show a big heading with the title and a background of coffee. Right below, there are testimonials of customers that already had some experience with this place.
 
-<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/homepage.png">
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/screenshots/homepage.png">
 
 ### About US
 
 This page provide more information about the cafe with an image on the side so that the customer can read and see at the same time how the cafe looks like.
 
-<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/aboutuspage.png">
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/screenshots/aboutuspage.png">
 
 ### Menu
 
 This page shows two menus. One menu called "Brunch All Day" and another one "Lunch". It contains the name of the item in the menu, what composes this item and the price for this particular dish. The information shows all the information perfectly aligned and easily readable when on mobile.
 
-<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/menupage.png">
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/screenshots/menupage.png">
 
 ### Contact
 
 There are two sections on this page. On the left-hand side, we can find the contact form that can be submitted. Once the form is submitted, it redirects to a page informing the user that the form was submitted. On the right-hand side, there is a sub-section which contains a sub title called "Opening hours" and will provide the times when the cafe is opened as well as the location of the cafe.
 
-<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/contactpage.png">
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/screenshots/contactpage.png">
+
+## Testings
+
+More than one validator mechanism were used to verify the quality of the website. Each validation are shown below""
+
+### 
