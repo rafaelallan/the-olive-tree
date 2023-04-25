@@ -117,6 +117,10 @@ More than one validator mechanism were used to verify the quality of the website
 
 * The form fields are required and validate correctly before the form is submitted.
 
+### Bugs
+
+* The footer on the Contact page was floating on the page because there wasn't content enough to push the footer to the bottom of the page. After adding `min-height` attribute obtained from the Stackoverlow, it helped to push to the bottom. Credit has been given in the appropriate section.
+
 ## Technology Used
 
 * HTML5 for the website structure.
