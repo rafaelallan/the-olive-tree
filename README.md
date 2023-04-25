@@ -144,6 +144,7 @@ More than one validator mechanism were used to verify the quality of the website
 
 * The text from the Testimonials and About Us page was generated using [Open AI](https://openai.com/).
 * [W3C Schools](https://www.w3schools.com/) was used for great references along the project.
+* [Make body have 100% of the browser height](https://stackoverflow.com/questions/6654958/make-body-have-100-of-the-browser-height) helped to keep the footer at the bottom when the content of the page is not big enough to push it down.
 
 ### Media
 
