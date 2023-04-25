@@ -1,6 +1,17 @@
 <h1 align="center">The Olive Tree</h1>
 
-The website [The Olive Tree](https://github.com/rafaelallan/the-olive-tree) to help customers to obtain information about a local cafe, The Olive Tree. The customers can contact through the website as well as access the social media.
+The website [The Olive Tree](https://rafaelallan.github.io/the-olive-tree/) to help customers to obtain information about a local cafe, The Olive Tree. The customers can contact through the website as well as access the social media.
+\
+## Content
+
+* User Experience (UX)
+* Features 
+* Testings
+* Technology Used
+* Deployment
+* Credits
+* Acknowledgements
+
 
 ## User Experience (UX)
 
