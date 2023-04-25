@@ -308,4 +308,8 @@ iframe {
     header {
         padding: 5px;
     }
+
+    nav a {
+        padding: 3px;
+    }
 }
