@@ -159,4 +159,4 @@ More than one validator mechanism were used to verify the quality of the website
 ## Acknowledgements
 
 The [Code Institute](https://codeinstitute.net/) has provided me all the content to have this project to happen. I appreciate all the help from my mentor `narender_mentor`, he shared several ideas for this project.
-I also want to thanks `Cesar.Garcia_5P` who we had a few video calls to discuss about the progress of the project.
+I also want to thanks `Cesar.Garcia_5P` who we had a few video calls to discuss about the progress of the project and motivated me even when I was working on the project sick.
