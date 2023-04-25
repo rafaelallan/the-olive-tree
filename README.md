@@ -5,12 +5,14 @@ The website [The Olive Tree](https://rafaelallan.github.io/the-olive-tree/) to h
 ## Content
 
 * [User Experience (UX)](<#user-experience-ux>)
-* Features 
-* Testings
-* Technology Used
-* Deployment
-* Credits
-* Acknowledgements
+* [Features](<#features>)
+* [Testings](<#testings>)
+* [Technology Used](<#technology-used>)
+* [Deployment](<#deployment>)
+* [Credits](<#credits>)
+* [Acknowledgements](#cknowledgements)
+
+
 
 
 ## User Experience (UX)
