@@ -53,6 +53,8 @@ The website was created with multiple pages which consists of Home page, About U
 
 The initial page will show a big heading with the title and a background of coffee. Right below, there are testimonials of customers that already had some experience with this place.
 
+<img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/homepage.png">
+
 ### About US
 
 This page provide more information about the cafe with an image on the side so that the customer can read and see at the same time how the cafe looks like.
