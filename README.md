@@ -45,3 +45,22 @@ This is a website to help customers to obtain information about a local cafe, Th
     - #### Contact
     <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/contact.png">
 
+## Features
+
+The website was created with multiple pages which consists of Home page, About Us, Menu and Contact. All the pages contain a similar header and footer. The header will have the menu highlighted to the page the user is currently on.
+
+### Home page
+
+The initial page will show a big heading with the title and a background of coffee. Right below, there are testimonials of customers that already had some experience with this place.
+
+### About US
+
+This page provide more information about the cafe with an image on the side so that the customer can read and see at the same time how the cafe looks like.
+
+### Menu
+
+This page shows two menus. One menu called "Brunch All Day" and another one "Lunch". It contains the name of the item in the menu, what composes this item and the price for this particular dish. The information shows all the information perfectly aligned and easily readable when on mobile.
+
+### Contact
+
+There are two sections on this page. On the left-hand side, we can find the contact form that can be submitted. Once the form is submitted, it redirects to a page informing the user that the form was submitted. On the right-hand side, there is a sub-section which contains a sub title called "Opening hours" and will provide the times when the cafe is opened as well as the location of the cafe.
