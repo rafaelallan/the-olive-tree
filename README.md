@@ -90,6 +90,10 @@ There are two sections on this page. On the left-hand side, we can find the cont
 
 <img src="https://github.com/rafaelallan/the-olive-tree/blob/main/assets/images/readme/contactpage.png">
 
+### Future Feature
+
+The website can have extra implementation such as sign up page so that the customers can always receive an update when a new item is added to the menu.
+
 ## Testings
 
 More than one validator mechanism were used to verify the quality of the website. Each validation are shown below:
